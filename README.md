@@ -66,5 +66,7 @@ The dataset includes:
 ---
 
 ## 📷 Screenshots
-
+- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(1).png
+- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png
+- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(3).png
 
