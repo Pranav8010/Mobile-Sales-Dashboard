@@ -64,9 +64,12 @@ The dataset includes:
 - Customer rating breakdown  
 
 ---
-
 ## 📷 Screenshots
-- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(1).png
-- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png
-- https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(3).png
+
+![Dashboard 1]( https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(1).png)
+
+![Dashboard 2](https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png)
+
+![Dashboard 3](https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(3).png)
+
 
