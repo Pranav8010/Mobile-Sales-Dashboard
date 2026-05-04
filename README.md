@@ -1,25 +1,25 @@
 # Mobile-Sales-Dashboard
 1. Project Title / Headline
-   Mobile Sales Dashboard
+ Mobile Sales Dashboard
    
-2. Description / Purpose
+3. Description / Purpose
  This project showcases an end-to-end sales analysis solution built using Power BI. It focuses on transforming raw mobile sales data  into meaningful insights through interactive visualizations.
 The dashboard enables users to monitor performance, identify trends, and make data-driven decisions by exploring sales across time, geography, products, and customer behavior.
 
-3. 💡 Solution
-   An interactive Power BI dashboard that:
-   1.Consolidates sales data into one view
-   2.Provides real-time filtering and drill-down capabilities
-   3.Highlights key KPIs and trends
-   4.Enables comparison with previous year performance
+4. 💡 Solution
+ An interactive Power BI dashboard that:
+ 1.Consolidates sales data into one view
+ 2.Provides real-time filtering and drill-down capabilities
+ 3.Highlights key KPIs and trends
+ 4.Enables comparison with previous year performance
 
-4. 🛠️ Tech Stack
+6. 🛠️ Tech Stack
    Power BI – Data visualization and dashboard creation
    Power Query – Data cleaning and transformation
    DAX – Measures, KPIs, and time intelligence (MTD, YoY)
    Excel / CSV – Data source
 
-5. 📂 Dataset
+7. 📂 Dataset
    The dataset includes:
    📅 Date (Year, Quarter, Month, Day)
    📱 Mobile Brand & Model
@@ -29,7 +29,7 @@ The dashboard enables users to monitor performance, identify trends, and make da
    ⭐ Customer Ratings
    📍 Location (City-wise sales)
 
-6. ✨ Features
+8. ✨ Features
    📊 Clean and intuitive dashboard design
    🎛️ Interactive slicers (Year, Month, Brand, Payment Method)
    🔁 Same Period Last Year (YoY) comparison
@@ -40,6 +40,6 @@ The dashboard enables users to monitor performance, identify trends, and make da
    ⭐ Customer rating breakdown
    ⚡ Fast and responsive user experience
 
-7. Screenshorts
+9. Screenshorts
    1. https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png
    2. 
