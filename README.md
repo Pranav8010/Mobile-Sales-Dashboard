@@ -41,4 +41,5 @@ The dashboard enables users to monitor performance, identify trends, and make da
    ⚡ Fast and responsive user experience
 
 7. Screenshorts
-   
+   1. https://github.com/Pranav8010/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png
+   2. 
